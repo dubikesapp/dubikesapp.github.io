@@ -4,7 +4,7 @@
     "details": [
     {
       "appID": "845178084.com.fleetmatics.manager",
-      "paths": ["*"]
+      "paths": ["*", "/"]
     }
     ]
   }
